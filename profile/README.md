@@ -1,4 +1,4 @@
-![banner image](banner_image.jpg)
+![banner image](profile/banner_image.jpg)
 
 <!--
 
