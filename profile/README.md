@@ -1,4 +1,4 @@
-## Hi there 👋
+![banner image](banner_image.jpg)
 
 <!--
 
